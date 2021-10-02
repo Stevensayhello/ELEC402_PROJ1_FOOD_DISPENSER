@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vFood_Dispenser_FSM
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1633047428
+!i10b 1
+!s100 I@0Vo7GFX2Ia[Pn0[AMF;1
+I8U9W35DTU`@33e?U_HPfY1
+S1
+Z2 dC:/Users/Steven Su/Desktop/Proj1
+w1632819180
+8C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_FSM.sv
+FC:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_FSM.sv
+!i122 0
+L0 7 141
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z5 !s108 1633047428.000000
+!s107 C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_FSM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_FSM.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@food_@dispenser_@f@s@m
+vFood_Dispenser_TB
+R0
+R1
+!i10b 1
+!s100 J`=ogg_me@2zPjbR<aW[Q3
+IkR_n9diKeQlG;@N;<?:790
+S1
+R2
+w1632819177
+8C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_TB.sv
+FC:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_TB.sv
+!i122 1
+L0 10 133
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_TB.sv|
+!i113 1
+R6
+R7
+n@food_@dispenser_@t@b

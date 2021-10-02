@@ -1,0 +1,15 @@
+{C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_TB.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Food_Dispenser_TB
+
+Top level modules:
+	Food_Dispenser_TB
+
+} {} {}} {C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_FSM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Steven Su/Desktop/Proj1/Food_Dispenser_FSM.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Food_Dispenser_FSM
+
+Top level modules:
+	Food_Dispenser_FSM
+
+} {} {}}
